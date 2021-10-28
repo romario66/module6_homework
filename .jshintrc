@@ -1,0 +1,10 @@
+{
+  "esversion" : 9,
+  "camelcase" : true,
+  "maxlen" : 120,
+  "curly" : true,
+  "strict" : true,
+  "browser" : true,
+  "devel" : true,
+  "node" : true
+}
